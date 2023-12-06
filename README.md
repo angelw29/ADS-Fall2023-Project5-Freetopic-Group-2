@@ -2,18 +2,23 @@
 
 Term: Fall 2023
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 2
++ Project title: An Analysis of the Titanic Movie
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Miao Zhang
+	+ Yihan Zhang
+	+ Wenhe Chen
+	+ Bessie Wang
+	+ Angel Wang
+	
++ Project summary: Implement a comprehensive analysis of film reviews for the movie "Titanic" using transformer-based models for sentiment prediction. The project aims to leverage advanced natural language processing (NLP) techniques to extract insights from reviews, including sentiment scores, word clouds, and predictive trends. Additionally, the project will perform lexical analysis to delve deeper into the language used in film reviews.
 	
 
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+- Miao contributed to data collection and cleaning, and wordcloud
+- Yihan and Wenhe contributed to the development of the model used for calculating the sentiment score
+- Angel contributed to predicting future trend, and the entire github setup
+- All member contributed to preparing the presentation slide
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
