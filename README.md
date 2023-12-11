@@ -10,7 +10,7 @@ Term: Fall 2023
 	+ Wenhe Chen
 	+ Angel Wang
 	
-+ Project summary: Implement a comprehensive analysis of film reviews for the movie "Titanic" using transformer-based models for sentiment prediction. The project aims to leverage advanced natural language processing (NLP) techniques to extract insights from reviews, including sentiment scores, word clouds, and predictive trends. Additionally, the project will perform lexical analysis to delve deeper into the language used in film reviews.
++ Project summary: Implement a comprehensive analysis of film reviews for the movie "Titanic" using transformer-based models for sentiment prediction. The project aims to leverage advanced natural language processing (NLP) techniques to extract insights from reviews, including sentiment scores, word frequency, and predictive trends. Additionally, the project will perform lexical analysis to delve deeper into the language used in film reviews.
 	
 
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
