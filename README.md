@@ -20,6 +20,7 @@ Term: Fall 2023
 - All member contributed to preparing the presentation slide (https://docs.google.com/presentation/d/1BYdNyriXQJeDtVVMctOLfsfHC232ZKRog1_-Dr3xQGo/edit?usp=sharing)
 
 Here is the pdf of our project: [View the PDF Report](https://github.com/angelw29/ADS-Fall2023-Project5-Freetopic-Group-2/blob/main/doc/Project_5.pdf)
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
