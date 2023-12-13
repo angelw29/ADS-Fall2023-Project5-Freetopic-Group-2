@@ -14,11 +14,12 @@ Term: Fall 2023
 	
 
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
-- Miao contributed to data collection and cleaning, and wordcloud
+- Miao contributed to data collection and cleaning, and wordc frequency
 - Yihan and Wenhe contributed to the development of the model used for calculating the sentiment score
 - Angel contributed to predicting future trend, and the entire github setup
 - All member contributed to preparing the presentation slide (https://docs.google.com/presentation/d/1BYdNyriXQJeDtVVMctOLfsfHC232ZKRog1_-Dr3xQGo/edit?usp=sharing)
 
+Here is the pdf of our project: [View the PDF Report](https://github.com/angelw29/ADS-Fall2023-Project5-Freetopic-Group-2/blob/main/doc/Project_5.pdf)
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
